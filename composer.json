@@ -1,6 +1,6 @@
 {
     "name": "larryphp/encryption",
-    "description": "A tiny encrypter from Laravel.",
+    "description": "A tiny encryptor from Laravel.",
     "license": "MIT",
     "autoload": {
         "files": [
