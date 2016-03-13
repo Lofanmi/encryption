@@ -7,6 +7,8 @@ Thank you for choosing LarryPHP Encryption - a tiny encryptor from Laravel, for 
 
 [![Build Status](https://travis-ci.org/Lofanmi/encryption.svg?branch=master)](https://travis-ci.org/Lofanmi/encryption.svg)
 [![Coverage Status](https://img.shields.io/codecov/c/github/Lofanmi/encryption.svg)](https://codecov.io/github/Lofanmi/encryption)
+[![Releases](https://img.shields.io/github/release/Lofanmi/encryption.svg)](https://github.com/Lofanmi/encryption/releases/latest)
+[![Packagist Status](https://img.shields.io/packagist/v/larryphp/encryption.svg)](https://packagist.org/packages/larryphp/encryption)
 
 Requirements
 ------------
