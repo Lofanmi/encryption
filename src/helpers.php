@@ -6,12 +6,13 @@ if (!function_exists('larryphp_encrypt')) {
     /**
      * Encrypt the given value.
      *
-     * @param  string  $value
-     * @param  string  $key
-     * @param  string  $cipher
-     * @return string
+     * @param string $value
+     * @param string $key
+     * @param string $cipher
      *
      * @throws \LarryPHP\Encryption\EncryptException
+     *
+     * @return string
      */
     function larryphp_encrypt($value, $key, $cipher = 'AES-128-CBC')
     {
@@ -23,12 +24,13 @@ if (!function_exists('larryphp_decrypt')) {
     /**
      * Decrypt the given value.
      *
-     * @param  string  $payload
-     * @param  string  $key
-     * @param  string  $cipher
-     * @return string
+     * @param string $payload
+     * @param string $key
+     * @param string $cipher
      *
      * @throws \LarryPHP\Encryption\DecryptException
+     *
+     * @return string
      */
     function larryphp_decrypt($payload, $key, $cipher = 'AES-128-CBC')
     {
@@ -38,14 +40,15 @@ if (!function_exists('larryphp_decrypt')) {
 
 if (!function_exists('larryphp_encrypt_url')) {
     /**
-     * Encrypt the given value for URL parameters/filenames
+     * Encrypt the given value for URL parameters/filenames.
      *
-     * @param  string  $value
-     * @param  string  $key
-     * @param  string  $cipher
-     * @return string
+     * @param string $value
+     * @param string $key
+     * @param string $cipher
      *
      * @throws \LarryPHP\Encryption\EncryptException
+     *
+     * @return string
      */
     function larryphp_encrypt_url($value, $key, $cipher = 'AES-128-CBC')
     {
@@ -55,14 +58,15 @@ if (!function_exists('larryphp_encrypt_url')) {
 
 if (!function_exists('larryphp_decrypt_url')) {
     /**
-     * Decrypt the given value for URL parameters/filenames
+     * Decrypt the given value for URL parameters/filenames.
      *
-     * @param  string  $payload
-     * @param  string  $key
-     * @param  string  $cipher
-     * @return string
+     * @param string $payload
+     * @param string $key
+     * @param string $cipher
      *
      * @throws \LarryPHP\Encryption\DecryptException
+     *
+     * @return string
      */
     function larryphp_decrypt_url($payload, $key, $cipher = 'AES-128-CBC')
     {
