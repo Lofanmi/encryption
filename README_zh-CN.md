@@ -3,15 +3,18 @@ LarryPHP 加密库
 
 感谢您选择LarryPHP加密库，它从Laravel核心分离，快速小巧，跟Laravel完全兼容。
 
-[![Build Status](https://travis-ci.org/Lofanmi/encryption.svg?branch=master)](https://travis-ci.org/Lofanmi/encryption.svg)
-[![Coverage Status](https://img.shields.io/codecov/c/github/Lofanmi/encryption.svg)](https://codecov.io/github/Lofanmi/encryption)
-[![Releases](https://img.shields.io/github/release/Lofanmi/encryption.svg)](https://github.com/Lofanmi/encryption/releases/latest)
-[![Packagist Status](https://img.shields.io/packagist/v/larryphp/encryption.svg)](https://packagist.org/packages/larryphp/encryption)
+[![StyleCI](https://styleci.io/repos/53662831/shield?style=flat&branch=master)](https://styleci.io/repos/53662831)
+[![Build Status](https://travis-ci.org/Lofanmi/encryption.svg?branch=master)](https://travis-ci.org/Lofanmi/encryption)
+[![codecov.io](http://codecov.io/github/Lofanmi/encryption/coverage.svg?branch=master)](http://codecov.io/github/github/Lofanmi/encryption?branch=master)
+[![Total Downloads](https://poser.pugx.org/larryphp/encryption/downloads)](https://packagist.org/packages/larryphp/encryption)
+[![Latest Stable Version](https://poser.pugx.org/larryphp/encryption/v/stable)](https://packagist.org/packages/larryphp/encryption)
+[![Latest Unstable Version](https://poser.pugx.org/larryphp/encryption/v/unstable)](https://packagist.org/packages/larryphp/encryption)
+[![License](https://poser.pugx.org/larryphp/encryption/license)](https://packagist.org/packages/larryphp/encryption)
 
-需求
+依赖
 ------------
 
-PHP5.4+，兼容PHP7。HHVM测试通过，但未在真实环境中测试。
+PHP5.4+，兼容PHP7。
 
 安装
 -------

@@ -5,10 +5,13 @@ LarryPHP Encryption
 
 Thank you for choosing LarryPHP Encryption - a tiny encryptor from Laravel, for doing encryption in PHP.
 
-[![Build Status](https://travis-ci.org/Lofanmi/encryption.svg?branch=master)](https://travis-ci.org/Lofanmi/encryption.svg)
-[![Coverage Status](https://img.shields.io/codecov/c/github/Lofanmi/encryption.svg)](https://codecov.io/github/Lofanmi/encryption)
-[![Releases](https://img.shields.io/github/release/Lofanmi/encryption.svg)](https://github.com/Lofanmi/encryption/releases/latest)
-[![Packagist Status](https://img.shields.io/packagist/v/larryphp/encryption.svg)](https://packagist.org/packages/larryphp/encryption)
+[![StyleCI](https://styleci.io/repos/53662831/shield?style=flat&branch=master)](https://styleci.io/repos/53662831)
+[![Build Status](https://travis-ci.org/Lofanmi/encryption.svg?branch=master)](https://travis-ci.org/Lofanmi/encryption)
+[![codecov.io](http://codecov.io/github/Lofanmi/encryption/coverage.svg?branch=master)](http://codecov.io/github/github/Lofanmi/encryption?branch=master)
+[![Total Downloads](https://poser.pugx.org/larryphp/encryption/downloads)](https://packagist.org/packages/larryphp/encryption)
+[![Latest Stable Version](https://poser.pugx.org/larryphp/encryption/v/stable)](https://packagist.org/packages/larryphp/encryption)
+[![Latest Unstable Version](https://poser.pugx.org/larryphp/encryption/v/unstable)](https://packagist.org/packages/larryphp/encryption)
+[![License](https://poser.pugx.org/larryphp/encryption/license)](https://packagist.org/packages/larryphp/encryption)
 
 Requirements
 ------------

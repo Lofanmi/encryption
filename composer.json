@@ -14,7 +14,7 @@
         "php": ">=5.4",
         "ext-mbstring": "*",
         "ext-openssl": "*",
-        "paragonie/random_compat": "^1.2",
+        "paragonie/random_compat": "~1.4|~2.0",
         "indigophp/hash-compat": "^1.1"
     },
     "require-dev": {
