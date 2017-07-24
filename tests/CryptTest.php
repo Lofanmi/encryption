@@ -23,7 +23,7 @@ class CryptTest extends PHPUnit_Framework_TestCase
 
     public function testWithCustomCipher()
     {
-        $key    = str_repeat('a', 32);
+        $key = str_repeat('a', 32);
         $cipher = 'AES-256-CBC';
 
         $encrypted = Crypt::encrypt('foo', $key, $cipher);
@@ -81,7 +81,7 @@ class CryptTest extends PHPUnit_Framework_TestCase
      */
     public function testExceptionThrownWhenPayloadIsInvalid()
     {
-        $key     = str_repeat('a', 16);
+        $key = str_repeat('a', 16);
         $payload = Crypt::encrypt('foo', $key);
 
         $payload = str_shuffle($payload);
