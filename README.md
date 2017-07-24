@@ -7,7 +7,7 @@ Thank you for choosing LarryPHP Encryption - a tiny encryptor from Laravel, for 
 
 [![StyleCI](https://styleci.io/repos/53662831/shield?style=flat&branch=master)](https://styleci.io/repos/53662831)
 [![Build Status](https://travis-ci.org/Lofanmi/encryption.svg?branch=master)](https://travis-ci.org/Lofanmi/encryption)
-[![codecov.io](http://codecov.io/github/Lofanmi/encryption/coverage.svg?branch=master)](http://codecov.io/github/github/Lofanmi/encryption?branch=master)
+[![codecov.io](http://codecov.io/github/Lofanmi/encryption/coverage.svg?branch=master)](http://codecov.io/github/Lofanmi/encryption?branch=master)
 [![Total Downloads](https://poser.pugx.org/larryphp/encryption/downloads)](https://packagist.org/packages/larryphp/encryption)
 [![Latest Stable Version](https://poser.pugx.org/larryphp/encryption/v/stable)](https://packagist.org/packages/larryphp/encryption)
 [![Latest Unstable Version](https://poser.pugx.org/larryphp/encryption/v/unstable)](https://packagist.org/packages/larryphp/encryption)
